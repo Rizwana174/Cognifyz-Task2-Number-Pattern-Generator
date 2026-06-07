@@ -26,10 +26,10 @@ python main.py
 ![Output1](screenshots/Output1.png)
 
 ### Reverse Number Triangle
-![Output 2](screenshots/output2.png)
+![Output2](screenshots/output2.png)
 
 ### Number Pyramid
-![Output 3](screenshots/output3.png)
+![Output3](screenshots/output3.png)
 ---
 ## 🎯 Internship Task
 Developed as part of the Software Development Internship Program at Cognifyz IT Solutions.
